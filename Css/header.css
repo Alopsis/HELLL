@@ -53,7 +53,7 @@ header {
     width: 100%;
     background-size: cover;
     background-position: center;
-    background-image: url(/Image/Top.jpg);
+    background-image: url(./Image/Top.jpg);
 }
 
 header h1 {
